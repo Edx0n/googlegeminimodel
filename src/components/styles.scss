@@ -1,0 +1,43 @@
+body {
+    background-color: #282c34;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.chat {
+    height: 500px;
+    padding: 16px;
+    margin-bottom: 20px;
+    width: 100% !important;
+    background-color: #282c34 !important;
+    overflow-x: hidden !important
+}
+
+
+.buttonSend {
+    display: flex;
+    position: center;
+    margin-top: 15px !important;
+    margin-left: 20px !important;
+}
+
+.screen {
+    width: 100% !important;
+    background-color: #282c34 !important;
+}
+
+.textField {
+    margin-left: 20px !important;
+    max-width: 98% !important;
+    background-color: #282c34 !important;
+}
+
+.hoverText {
+    color: white;
+   }
+   
+   .hoverText:hover {
+    color: #7005b3;
+   }
+
